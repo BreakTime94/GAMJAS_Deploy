@@ -1,4 +1,4 @@
-# GAMJAS
+# GAMJAS(Get A Memorable Journey Around Seoul)
 
 ## 주제 "다각화하는 K-컬쳐 외국인 관광객 커뮤니티(정보) 플랫폼"
 
